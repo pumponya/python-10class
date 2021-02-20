@@ -1,1 +1,9 @@
 print("GG")
+
+name=intput("Введите имя")
+age=int(input("Введите возраст"))
+
+
+qwerty=float("Введите целое число"))
+q
+
