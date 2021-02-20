@@ -1,1 +1,5 @@
 print("int")
+name=input("Введите число: ") 
+age=int(input("Введите возраст") )
+
+gwerty=int(input(" Введите целое число"))
