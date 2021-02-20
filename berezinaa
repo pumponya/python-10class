@@ -1,1 +1,8 @@
 print("initial commit")
+
+a=int(input())
+x=a-1
+y=a+1
+print("Вы ввели: " + str(a))
+print("Предыдущее числ: " + str(x))
+print("Следующее число: " + str(y))
